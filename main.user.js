@@ -2,7 +2,7 @@
 // @name         Plot To SVG
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @license      Apache 2.0; https://www.apache.org/licenses/LICENSE-2.0
+// @license      MIT
 // @description  Add download SVG button
 // @author       JJH조재희
 // @match        http://www.spectraplot.com/blackbody
